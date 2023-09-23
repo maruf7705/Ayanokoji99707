@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maruf Islam</h1>
+<img src=https://github.com/Ayanokoji99707/web-dev-new/blob/main/MARUF%20(New%20LinkedIn%20Banner).gif>
+<h1 align="center">Assalamu Alaikum 👋, I'm Maruf Islam</h1>
 <h3 align="center">I want to be an enthusiastic programmer.</h3>
 <img src="https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanokoji99707&label=Profile%20views&color=0e75b6&style=flat" alt="ayanokoji99707" /> </p>
