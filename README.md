@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Maruf Islam</h1>
 <h3 align="center">I want to be an enthusiastic programmer.</h3>
 <img src="https://github.com/Ayanokoji99707/yeaminbin.github.io/blob/main/images/animesher.com_code-computer-html-197855.gif?raw=true" align="right" alt="Coding" width="400">
